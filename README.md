@@ -16,7 +16,7 @@
 <h2 align="center">Stats</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=felipeospina21&show_icons=true&theme=radical&count_private=true&line_height=33.5&hide_border=true">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipeospina21&hide=vba&theme=radical&langs_count=4&card_width=510&hide_border=true">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipeospina21&hide=vba&theme=radical&langs_count=4&hide_border=true">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=felipeospina21&theme=radical&hide_border=true">
