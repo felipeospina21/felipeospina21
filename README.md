@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=D93B7D&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello%2C+I'm+Felipe+Ospina;Web+Developer)](https://git.io/typing-svg)
 
 <h2 align="center">Tech Stack</h2>
+<br>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
   <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" width="60">
@@ -12,8 +13,9 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
  </p>
-
+<br>
 <h2 align="center">Stats</h2>
+<br>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=felipeospina21&show_icons=true&theme=radical&count_private=true&line_height=33.5&hide_border=true">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felipeospina21&hide=vba&theme=radical&langs_count=4&hide_border=true">
