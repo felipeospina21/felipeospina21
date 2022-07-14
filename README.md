@@ -12,6 +12,7 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60">
  </p>
 <br>
 <h2 align="center">Stats</h2>
