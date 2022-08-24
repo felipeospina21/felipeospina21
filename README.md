@@ -1,7 +1,4 @@
 <!-- [![MasterHead](https://dsm01pap002files.storage.live.com/y4m1irR1TmVQJMP2Ut_QxFfCpO-Xmtu9qDl8ODVeyyPV8-rmBZYFofaod-Q-D_YclAyoIv-k8PS92A0voIPfserjpYXKePF2yPpX7IXAFaodabeZA-vhc7dB_qmsTNnfWKOZUFMrJtcoUYPOYd53gMIBSaBjzFsG9FvbEawOp3dZpEQi-hpL-z5QwXTphPjOM3Y?width=1483&height=419&cropmode=none)](https://github.com/felipeospina21) -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=D93B7D&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello%2C+I'm+Felipe+Ospina;Web+Developer)](https://git.io/typing-svg)
-
 <h2 align="center">Tech Stack</h2>
 <br>
 <p align="center">
