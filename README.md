@@ -2,13 +2,20 @@
 <h2 align="center">Tech Stack</h2>
 <br>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="60">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" width="60">
+  <span>&nbsp;</span>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
+  <span>&nbsp;</span>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+  <span>&nbsp;</span>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="100">
+  <span>&nbsp;</span>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+  <span>&nbsp;</span>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="60">
+  <span>&nbsp;</span>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60">
  </p>
 <br>
